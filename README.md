@@ -1,2 +1,2 @@
 # portfolio
-Professional portfolio with descriptions and selections of apps and code I was directly responsible for.
+Check the portfolio at [https://kbabcockuf.github.io/portfolio/]
