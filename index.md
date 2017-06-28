@@ -1,4 +1,4 @@
-Want to learn more abut me and my professional chops?  Find me on LinkedIn at [https://www.linkedin.com/in/kbabcockuf/](https://www.linkedin.com/in/kbabcockuf/).
+Want to learn more about me and my professional chops?  Find me on [LinkedIn](https://www.linkedin.com/in/kbabcockuf/) and [Stack Overflow](http://stackoverflow.com/users/345606/kevin).
 
 **Halo Sport** - Neurostimulator that targets the motor cortex, priming neurons for increased muscle memory and training.  I architected and engineered the Android app from the ground up, leveraging RxJava to produce a highly responsive UX.  I also built a low-loss time series hardware analytics system that spans the entire vertical software stack, implementing an analytics flash storage system on the Halo Sport headset that can store up to 3600 analytics records that get routed via the Halo Sport mobile apps to AWS Kinesis Firehose and ultimately stored in a Redshift database.  Once in Redshift, I developed a set of Python scripts to perform ETL and data mining for internal analytics.
 
