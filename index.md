@@ -1,5 +1,3 @@
-Below is a selection of professional projects on which I was (or am) the Lead Engineer.  In many cases, I am directly responsible for >=80% of the code.  If not, I'll mention it!
-
 ### Connected Device
 **[Kindara Wink](https://kindara.com/wink)** - Accurate and precise Bluetooth LE thermometer automatically syncs temperatures to Kindara’s Android and iOS apps.  As the Lead Engineer at Kindara, I am directly responsible for the success of Wink, re-engineering the Embedded C firmware and iOS CoreBluetooth API, and completely scrapping the Android BLE API.  This is my proudest achievement as an engineer - I had never written Embedded C and re-wrote 90% of the firmware in under six months after being hired as a Senior Android Engineer.  Wink is now a successful connected device with over 10,000 preorders now shipping.
 
